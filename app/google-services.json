@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "340301766071",
+    "project_id": "billing-cfd86",
+    "storage_bucket": "billing-cfd86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340301766071:android:8c585c9d7b87e342d11c32",
+        "android_client_info": {
+          "package_name": "com.example.billingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340301766071-v6tm0659o5bo51fvc6aqnmfeug1upd4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv0Bts-iQfM58Rs0OETfp99r7QOtb0H0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340301766071-v6tm0659o5bo51fvc6aqnmfeug1upd4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
